@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy new-yeares gift, or A true declaration of the most cruell and bloudy murther, of maister Robert Heath, in his owne house at high Holbourne, being the signe of the fire-brand which murther was committed by Rowland Cramphorne, seruant and tapster to the said Heath: on new-yearesday last past in the morning, 1609. Whereunto is annexed, sundry exploits of Tendance, otherwise called Double diligence, seruant vnto Derricke the hangman, who with his consort (Olde dublets) was executed at Tyborne, in Ianuary last past 1609.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1609</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72262</idno>
+            <idno type="STC">STC 13018.3</idno>
+            <idno type="STC">ESTC S750</idno>
+            <idno type="EEBO-CITATION">99899027</idno>
+            <idno type="PROQUEST">99899027</idno>
+            <idno type="VID">150631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1960:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy new-yeares gift, or A true declaration of the most cruell and bloudy murther, of maister Robert Heath, in his owne house at high Holbourne, being the signe of the fire-brand which murther was committed by Rowland Cramphorne, seruant and tapster to the said Heath: on new-yearesday last past in the morning, 1609. Whereunto is annexed, sundry exploits of Tendance, otherwise called Double diligence, seruant vnto Derricke the hangman, who with his consort (Olde dublets) was executed at Tyborne, in Ianuary last past 1609.</title>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [by Edward Allde] for B. S[utton]. &amp; W. B[arrenger]. and are to be solde at their shop at the great north doore of saint Paules Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's and publishers' names from STC.</note>
+                  <note>Signatures: A-C⁴ (-A1, C4; Sig. C3 missigned D3).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heath, Robert, d. 1609 --  Early works to 1800.</term>
+               <term>Cramphorne, Rowland --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150631:1" rendition="simple:additions"/>
+            <p>A Bloudy new-yeares gift, OR A TRVE DECLA<g ref="char:EOLunhyphen"/>ration of the moſt cruell and bloudy murther, of maiſter Robert Heath, in his owne houſe at high Holbourne, being the <hi>ſigne of the fire-brand: which murther was</hi> com<g ref="char:EOLhyphen"/>mitted by Rowland Cramphorne, ſeruant and Tapſter to the ſaid Heath: On new-yearesday laſt paſt in the morning, 1609.</p>
+            <p>Whereunto is annexed, ſundry exploits of <hi>Tendance,</hi> otherwiſe called <hi>Double diligence,</hi> ſeruant vnto Derricke the Hangman, Who with his Conſort (Olde dublets) was executed at Tyborne, in Ianuary laſt paſt 1609.</p>
+            <figure>
+               <figDesc>depiction of a hanged man (probably intended to represent Tendance)</figDesc>
+            </figure>
+            <p>London printed for <hi>B. S.</hi> &amp; <hi>W. B.</hi> and are to be ſolde at their ſhop at the great north doore of ſaint Paules Church. 1609.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150631:2"/>
+            <pb facs="tcp:150631:2"/>
+            <head>
+               <figure>
+                  <head>L A</head>
+                  <figDesc>decorative header</figDesc>
+               </figure>
+            </head>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the relation (gentle reader) of the enſuing diſcourſe, I haue bin ſo dilligent and carefull, that I haue rather failed to write ſo much as I might, then any way I come ſhort of truth and ſinceritie. I heard the offenders tryall and conuiction, at the Seſſions houſe, and according to the enſtructions, there deliue<g ref="char:EOLhyphen"/>red in euidence, haue briefely ſet downe the whole ſumme in effect, though not ſo or<g ref="char:EOLhyphen"/>derly (perhaps) as a better iudgemenr could haue done. I ſtand free (I truſt from partia<g ref="char:EOLhyphen"/>litie, or ſiniſter conſtruction) being no way waged for the one, or fearefully doubting of the other. And in the opening of ſuch cri<g ref="char:EOLhyphen"/>minal caſes, concerning perſons of no
+<pb facs="tcp:150631:3"/>higher qualitie. I am of the minde, that any writer (keeping himſelf within the boundes and limits of truth) hath freedome of his pen, and good ground for his publication; Becauſe ſuch examples remaining to poſte<g ref="char:EOLhyphen"/>ritie, do expreſſe the care and induſtry of precedent times, in puniſhing ſuch ſinnes, and ſerue as mirrours or ſpectacles, for o<g ref="char:EOLhyphen"/>thers to auoid the like monſtrous enormi<g ref="char:EOLhyphen"/>ties.</p>
+            <p>I haue heard an infinite number of ru<g ref="char:EOLhyphen"/>mors, concerning this preſent murder com<g ref="char:EOLhyphen"/>mitted, and ſtrange conſtructions, vppon as ſtrange obſeruations. I was neuer ſo giddi<g ref="char:EOLhyphen"/>ly affected, as raſhly to beleeue, or leane re<g ref="char:EOLhyphen"/>ſoluedly to any, but what I both ſaw and heard, in the honourable Court of Iuſtice, and in the beſt maner I could, I haue follow<g ref="char:EOLhyphen"/>ed the courſe of direct information, ſuch as from the worthy paines of the Coroner, his empanelled Enqueſt, and the Iuſtices that had the examination of the cauſe, was eui<g ref="char:EOLhyphen"/>dently, plainely, and iuſtly deliuered.</p>
+            <pb facs="tcp:150631:3"/>
+            <p>Therefore, with that olde grammaticall rule, <hi>Foelix quem faciunt aliena pericula cau<g ref="char:EOLhyphen"/>tum,</hi>
+            </p>
+            <p>I knit vp this ſhort preface, deſiring that the puniſhment of this mans offence may ſo ſerue in example, as the like bloudy ſinne, ei<g ref="char:EOLhyphen"/>ther in, or neere this famous Citie, may neuer heerafter (by any one) be committed.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_an_execution">
+            <pb facs="tcp:150631:4"/>
+            <pb facs="tcp:150631:4"/>
+            <head>A true declaration, Of the Araignement, Conuict<g ref="char:EOLhyphen"/>ion, and Execution, of <hi>Rowland Cramphorne</hi> a Tapſter, for moſt cruell and bloudy mur<g ref="char:EOLhyphen"/>thering his Ma. <hi>Robert Heath</hi> a Cooke, in his owne houſe at high Holborne on New yeares day laſt in the morning. 1609.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He tragicall diſcourſe we</hi> haue in hand to relate, doth firſt very neceſſaryly require, that we ſhould ſpeake ſomwhat concer<g ref="char:EOLhyphen"/>ning the perſon who was the Actor of ſo diſmall a ſtratageine, concerning his former life and noted behauiour, likely to ſuite with ſo wretched a concluſion: As (no doubt) there are many of this profeſſion, who are of honeſt inclina<g ref="char:EOLhyphen"/>tion and good gouerment, though it be a qualitie ſub<g ref="char:EOLhyphen"/>iect to much inciuility, yet this young man had bin obſerued by diuers, to be very idle in diſpoſition, looſe and giddie headed in affection and behauiour, and
+<pb facs="tcp:150631:5"/>drinke, which is the deſtruction of too many, had more power of him, then was ſeemly or conuenient.</p>
+            <p>And hauing by his wanton enticements, ouercome the too forward yeelding of a comely young Maiden, with promiſe of mariage, oathes and other proteſtati<g ref="char:EOLhyphen"/>ons: when ſuch time came, as ſhe was knowne to be great with child, and (both for ſupport of her bruſed credit, and auoyding ſuch ſcandale, as thereby might enſue to him) had betaken her ſelfe ſo out of ſight, that no publique detection ſhould lay holde on either: She was at laſt deliuered, and then challenging him of his former vowed faith and promiſe, to repayre the ruine of her loſt reputation, he vtterly abiured any knowledge of her, or that any ſuch matter had bin done by him, threat<g ref="char:EOLhyphen"/>ning to haue her ſeuerely puniſhed, if ſhe durſt after<g ref="char:EOLhyphen"/>ward lay any ſuch reproche to his charge. She hauing no other helpe but pacience, or any freinds to ſted her in ſo wofull an extremitie, was compelled to be ſilent, and giue ouer any further claime vnto him, Only thus ſhe parted from him, with theſe or the like ſpeeches. Farewell <hi>Rowland,</hi> thou and none but thou (vpon my ſoule) haſt bin the euerthrow of a poore Maide, I for<g ref="char:EOLhyphen"/>giue thee from my hart, but am perſwaded, that (one day) God will reuenge my cauſe, and (though I wiſhe it not, for I loue thee but too well) that I ſhall line to ſee thee come to ſome ſhamefull end, nay worſe then ſhame, if worſe may be. For mine owne parte, this badge of my deſerued infamy, which I beare by thee, and this poore childe, y<hi rend="sup">e</hi> fruit of a falſe and periurde father: I wil beare, the one as I may, and comforte the other as God ſhall enable me, not doubting, but I ſhall get a pennie to buy it foode, wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n thou ſhalt periſhe in ſhame and diſgrace.</p>
+            <p>I could likewiſe here ſet downe other knowne det<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<g ref="char:EOLhyphen"/>ions, as of an other woman, who both before, and during
+<pb facs="tcp:150631:5"/>all the time of his trouble was his only freind and main<g ref="char:EOLhyphen"/>tayner. Likewiſe, what all the neighbours there about haue noted, in his daylye cariage and behauiour, and what hath bin ſaid concerning his Miſtreſſe: But let all theſe imputations now dye with him, and proceed we to deliuer his notorious offence.</p>
+            <p>Vpon Fryday, being the <hi>17</hi> of Februarie, <hi>Rowland Cramphorne</hi> was endighted and araigned at the Seſſi<g ref="char:EOLhyphen"/>ons houſe in the olde Baylie, before my Lord Maior, and his Maieſties Commiſſioners in caſe of Iuſtice; of willfull murder and pettie treaſon, for murdering his M. <hi>Robert Heath,</hi> with an yron fyer Forke, giuing him his deathes wound vpon his head. He pleaded to his Enditement, not guiltie, and for his further triall, did put himſelfe vpon God and his Countrie, according to the ordinarie proceeding in the like caſes. Heerupon, diuers good and ſubſtantiall witneſſes were there pro<g ref="char:EOLhyphen"/>duced, that had before giuen in theire Euidence to the Coroners Enqueſt. But in regard they were many, to the number of twelue, or there about: the proofes that were moſt pregnant, and neereſt to the purpoſe, were only made vſe of, which was the maide ſeruant of the houſe, the boy alſo of the houſe, who was bedfellowe to <hi>Rowland,</hi> a Gentleman lodging in the houſe, and a Ioyner being the next neighbor, who heard the noyſe in the houſe, when the bloodie act was performed.</p>
+            <p>The effect of the maides Euidence, was, that her maiſter, being one that kept much companie, bin abroad, and came home ſomwhat diſguiſed in drinke, where ſitting downe in his kitchin by the Fire, after the depar<g ref="char:EOLhyphen"/>ture of two or three friends that had come in, and there fitten a while with him; he fell aſleepe in his Chaire, his wife going to bed about nine of the clock. And becauſe the keye of her Chamber Doore was miſſing, and her
+<pb facs="tcp:150631:6"/>huſband vſed often to c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me late to bed, ſhee would hau<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the maide ſet the Table againſt the dore when ſhe came to bed, that ſo ſhe mighth me knowledge of her huſbands comming, ſhe ſaid ſhe did. None now remained vp in the houſe, but the <hi>Maide</hi> and <hi>Rowland,</hi> except the Gentle<g ref="char:EOLhyphen"/>man that lay in the houſe, who hauing bin hidden by <hi>Maiſter Heath</hi> to ſupper, and fayling thereof by reaſon of his hoſtes late co<g ref="char:cmbAbbrStroke">̄</g>ming in went vp into his Chamber, and two more with him, where hauing a Fyre made him, and calling for a pot of beere. <hi>Rowland</hi> brought him vp a Iugge that held ſixe penie worth of Beere, where<g ref="char:EOLhyphen"/>of the Gentleman drinking but once, and being ouer<g ref="char:EOLhyphen"/>watcht with ſitting vp the night before at play: lea<g ref="char:EOLhyphen"/>ning backward to his bed, he fell a ſleepe, not waking againe vntill he heard the Chimes goe twelue a clock. In this time, the other men that were there, had drunke vp the drinke, and departed while he ſlept, but at what time, he knewe not. He awaking, and finding his fire <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut, his frends gone, and him ſelfe to be very colde, knocked for the Tapſter, who comming vp to him, and reſoluing him how long he had ſlept, and of the others departure: the Gentleman deſired to haue ſome more fyre, but the Tapſter made anſwere, that there were no Faggots in the houſe, albeit there was then aboue two hundred in the Seller. He then required to haue a pot of Beere, but the Tapſter replying, that he had loſt the keye, would let him haue none. Then the Gentle<g ref="char:EOLhyphen"/>man ſaying, that he was both colde and drye, ſaid he would goe forth and knock vp ſome bodie, where he might haue both fyre and drinke: where to the Tapſter was verie willing, making offer to goe with him: but when he heard the Gentleman ſay, that in regard it was ſolate, he would not ſtay long the Tapſters mind was altered, and would not goe at all. Wherevpon, miſſing the ſheetes vpon his bed, and the Rugge alſo,
+<pb facs="tcp:150631:6"/>which being brought vp by the maide, and by her and <hi>Rowland</hi> was laid vpon the bed: the Gentleman, cold as he was, and without any drinke, was faine to goe to bed, as him ſelf being there preſent, deliuered in his Euidence, as hath bin breifely declared.</p>
+            <p>The Maide, perceiuing her Maiſter to ſit ſtill ſleeping, and that it was paſt two of the clock, locking and bol<g ref="char:EOLhyphen"/>ting the doores both backward and forward with her own hands went vp to bed, ſetting the Table againſt the doore, as her Miſtris had bidden her: now was <hi>Rowland</hi> left alone with his Maiſter, when as it after fell out, the deuill preuailed ſo farre with him, to doe that horrible deed of darknes. For albeit he went to bed to the boy, whome before he had made drunke both with beere &amp; ſack: yet the boy felt when he aroſe away from him, but could not tel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when he came to bed againe: And the maide before her going to bed, had lighted a whole Candle and let by her maiſter which ſhe found in the morning turned dounward into the ſocket of the Candle-ſtick, not fully a quarter burned.</p>
+            <p>Now in this dead ſilence of the earlie morning, be<g ref="char:EOLhyphen"/>tweene two or three of the clock, the Ioyner and his wife being in bed, and a freind of theirs lying in the chamber likewiſe in the vnder bed, heard a great noiſe in maiſter <hi>Heathes</hi> houſe, as it were the fall of ſtooles or Chaires: in ſo much as the ſtranger ſaid vnto them (bearing the Ioyners dogs keep ſuch a coyle, the one howling, and the other barking:) he wondered how they coulde ſleepe, when ſo great a noiſe was neere them. The Ioyners wife anſwered, that being New-yeares day, ſurely maiſter <hi>Heathes</hi> folkes were vp at worke, about their Pyes or ſuch like buſines: more<g ref="char:EOLhyphen"/>ouer, they heard the doore open, which ſerued to the roome where <hi>Rowland</hi> lay and within a ſmall while
+<pb facs="tcp:150631:7"/>after, they heard it ſhut againe: for the Chamber where they lay, was iuſt ouer the ſaid roome, and the doore was neuer opened or ſhut, but it would much ſhake their bed. And the Ioyner would haue riſen to ſee who went out at that doore, but that his wife perſwaded him to the contrarie.</p>
+            <p>at this time (as by all circumſtances appeareth) was this vnnaturall deed doone, and the murderer, hoping to out-face the matter, as he afterward did, goes to bed againe, leauing the dores open euery way, ſauing that of his owne lodging, which is on the ſame floore, and but deuided from the Shop: which leauing of the doores thus wide open, muſt needes be about ſixe of the clocke, becauſe a maide ſeruant to a <hi>Barber,</hi> had bin there after fiue a clock for ſixe, and found them then to be faſt ſhut. Not long after, the maide of the houſe ariſ<g ref="char:EOLhyphen"/>eth, and comming downe in the darke, feeles about the dreſſer boorde, and finds the candle, ſo put out as before hath bin declared. And hauing lighted it, ſees the wo<g ref="char:EOLhyphen"/>full ſpectacle of her maiſter: whereat being affrighted, ſhe goes and wakes dog-ſleeping <hi>Rowland,</hi> and telles him what he knewe too well, that her m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſter was murdered: marie god forbid ſayes <hi>Rowland,</hi> it is too true replyes the Maide, Peace. peace ſayes <hi>Rowland.</hi> And being demaunded, wherefore he ſayd ſo: made anſwer for feare of affrighting his Miſtreſſe.</p>
+            <p>The outcry of this murder being made, the Ioyner being vp and ready, becauſe he frequented the morning lecture at Chriſts-Church: among other neighbours went into the houſe, and being the firſt that layd hand vpon M. <hi>Heath,</hi> heaued him vp vpon his buttocks, and found him not to be quite dead, for he fetched a ſigh or two, and calling for <hi>Aqua-vitae,</hi> made meanes to get him vp into his Chamber, but in the cariage vp, his
+<pb facs="tcp:150631:7"/>life expired. The Ioyner demaunding in the name of God, how ſuch a wicked deed could be done, none being in the houſe, but they appertayning to the houſe? <hi>Rowland</hi> anſwered, he could not tell, the dores were found wide open in the morning. The Wife of the houſe and the Maide, they made the like anſwere, and no one could preſently be ſaid who did it. But the Con<g ref="char:EOLhyphen"/>ſtable and other Officers being called for, they were caried before ſuch Magiſtrates, as are to examine mat<g ref="char:EOLhyphen"/>ters of like nature.</p>
+            <p>
+               <hi>Rowlands</hi> mony in his pocket was found to be bloodie, and ſo was the pocket it ſelfe: he being then demaunded how it ſo happened? made anſwer that it might be with helping to lift his Maiſter, who being much beſmered with blood, might bloodie his hands, and ſo both his mo<g ref="char:EOLhyphen"/>ny and pocket might become bloodie. But it was ap<g ref="char:EOLhyphen"/>proued, and by the Ioyner maintayned, that he layd no hand then to help vp his Maiſter, how butcherly ſoeuer he had ſmitten him downe before. Beſide, vpon the Fire Forke there appeared a drop of blood, as ſeem<g ref="char:EOLhyphen"/>ing that the act was therwith perfourmed: albeit he confeſſed afterwarde, that he did it with a double Iugge.</p>
+            <p>The day before, M. <hi>Heath</hi> being with ſome friends neere vnto his houſe, ſent for beere home to his owne Tapſter, which was three or foure ſeuerall times deni<g ref="char:EOLhyphen"/>ed him by the Tapſter. And when mony was ſent, which made him fill the drinke, yet when it was told him it was his maiſters, and would pay him when hee came home, he caught the pot and put foorth the drinke againe, and would ſend him none. Moreouer, it appee<g ref="char:EOLhyphen"/>red that his M. had ſome diſlike of <hi>Rowla<g ref="char:cmbAbbrStroke">̄</g>ds</hi> behauiour, and (as the neighbours haue affirmed) not without good cauſe, ſo that he had tolde him, he ſhould make vp his
+<pb facs="tcp:150631:8"/>account, for as neere as the tearme was he would be rid of him. And it is ſaid that that day when his maiſter came home, he gaue him a box or two on the eare, for de<g ref="char:EOLhyphen"/>nying him drinke, and bad him prouide himſelfe, for he ſhould ſerue him no longer.</p>
+            <p>The Iury finding him guilty of wilfull murder and treaſon, did ſo deliuer vp their verdict, and he had ſen<g ref="char:EOLhyphen"/>tence of death, according to law. The tueſday following being the <hi>21,</hi> day of February; a Iibbet being ſet vp at Graies-Inne lane end, ſomewhat neere vnto the houſe where the murder was committed. In the after noone of the ſame day, <hi>Rowland Cramphorne,</hi> being laide v<g ref="char:EOLhyphen"/>pon a hurdle, was drawne to the place appointed for ex<g ref="char:EOLhyphen"/>ecution, where being by good and godly preachers dealt withall, to cleare his own conſcience, &amp; deliuer the truth in ſo doubtfull a caſe, whether any other had hand or no with him in the action: he would heare no ſpeeches con<g ref="char:EOLhyphen"/>cerning his miſt. or the maid, but cleered them <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſmuch as he could, taking al vpon himſelf: &amp; loath to heare a<g ref="char:EOLhyphen"/>ny further admoniſhment, which with loue and much charity was laboured vnto him: when he was willed to make no haſte, but take time to his owneliking, putting one legge beſide the ladder, and they calling him yet to ſtay, yea the hangman offering to holde him by the choller of his doublet, he deſperately threw him<g ref="char:EOLhyphen"/>ſelfe off, not willing to liſten to any further good counſell.</p>
+         </div>
+         <div type="account_of_an_execution">
+            <pb facs="tcp:150631:8"/>
+            <head>A briefe declaration of <hi>Tendance</hi> otherwiſe called double Diligence, ſeruant to <hi>Derricke</hi> the hangman, who with his Conſort <hi>Olde Dublets,</hi> were lately executed at Ty<g ref="char:EOLhyphen"/>borne, in <hi>Ianuary</hi> laſt 1609.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He royall and Princely lawes and or<g ref="char:EOLhyphen"/>dinances of this Realme being ſo ſtrict and puniſhable as they are, ſhould (as euery man would Iudge) moue all men at the very ſight of the execution therof to take warning, which way to auoyde the puniſhments &amp; penalties of them. But as we finde and ſée dayly, none are ſo apt to tranſgreſſe the Lawe as men experienced in the Lawe: none more ready for im<g ref="char:EOLhyphen"/>priſonment, then ſuch as haue abode the danger thereof before: ſo that the olde Prouerb is (as it were) falſifyed, namely, <hi>The burnt Childe dreades the fire.</hi> For aſ<g ref="char:EOLhyphen"/>much, as many ſéeing the dangerous euents which are like to proceed and happen vpon parties offending can<g ref="char:EOLhyphen"/>not (through the want of grace and ſeruing of God) eſ<g ref="char:EOLhyphen"/>chew, but rather incurre the ſame, or worſe if worſe might be. As for example is to be ſéene, by a moſt vngra<g ref="char:EOLhyphen"/>cious, vnluckie, falſe and diſſembling villaine, who was ſeruant to y<hi rend="sup">e</hi> Hang-man, or as ſome call it, his partner, who was as apt and diligent in the quicke diſpatching of
+<pb facs="tcp:150631:9"/>any his olde yew-fellowes or accquaintance, Cutpur<g ref="char:EOLhyphen"/>ſes, which came vnder his iuriſdiction, as euer any hangman (maſter or ſeruant) which euer were of the three coruerd order: Yet note the villanous conuerſation of that ſhameleſſe villaine. There came not (by report) any young rogue to be admitted into the order or frater<g ref="char:EOLhyphen"/>nitie of rogues (as the cuſtome is among them they muſt) but this ſlaue was the cheife miniſterer of their oathes of aleagance, to the vpright man or whole aſſem<g ref="char:EOLhyphen"/>bly of rogues, becauſe that he being at their admittance, ſhould lightlie be at their end making, ſo that he was as it were an Ouerſeer of their whole liues, both begi<g ref="char:cmbAbbrStroke">̄</g>ning, continuance, and ending: and could teſtifie at their ends whether they had done true ſeruice, in that their togiſh vocation whereunto they were admitted.</p>
+            <p>There was not through the whole weeke any purſe cut, but his malefactions Gentleman, was at the account making of their booties or praies, and cheife ſharer aboue all the maiſter cutpurſes about the towne, ſay what they could or do what they could: For if he had bin neuer ſo litle creſt, in his beaſtly worſhips humor, by any of the trade, vnleſſe it were a great chance, either he ſhould be abridged of the libertie of roguing, or els through his meanes come to be promoted to his owne proper power, for he would bewray and appeach all the doings of ſuch as liked him not.</p>
+            <p>No cheating bargaine, made either by coſeners or gamſters vpon peor or ſilly men, neither any locke pickt or houſe broke open, but he was made acquainted with it, els was their oath broken, and for breach thereof, ſuch offenders lightly in lewe of their breaking of the ſame, either promoted to the gallowes, or els betrayed by him, and throngh his meanes to the puniſhment prouide<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for them according to the deſert of their offence, or eis
+<pb facs="tcp:150631:9"/>cleane ſhut out of the order. The which if any maiſter cutpurſe, had but preſumed further then his authoritie, and had prayed or ſeazed vpon the booties of any cut<g ref="char:EOLhyphen"/>purs or ſlaue, who was to doe ſeruice to thoſe of higher power, if the partie wronged had but made way to <hi>Tendance,</hi> for ſo he was called, he ſhould be ſure to be heard and haue remedie for his wrongs: or if any of the inferior ſort had neglected any part of their duties, the which (by their oath at their ſtealing or admittance into the order of Rogues) they were tied vnto, They were all Subiect to the ſentence which <hi>Tendance</hi> ſhould pronounce againſt them, and in daunger of ſuch penalties, as by the generall conſent of their whol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fraternitie had before time bene eſtabliſhed.</p>
+            <p>No whore or young ſtrumpet could be admitted to be <hi>Doxis</hi> or <hi>Dels,</hi> or receiue any dignitie or vocation with<g ref="char:EOLhyphen"/>out conſent of <hi>Tendance,</hi> nor none be (broken of the vpright man or maiſter Rogue) as their order is, vnleſſe by <hi>Tendance</hi> his diſcretio<g ref="char:cmbAbbrStroke">̄</g> it might be thought be fitting. beggers or idle Roges, or any ſuch, might not be admit<g ref="char:EOLhyphen"/>ted into the lazie roging order, but muſt firſt be brought before <hi>Tendance,</hi> to the end he might allow of their pro<g ref="char:EOLhyphen"/>ceedings, either old or young. Beſides, be had all the whole vniuerſall prorogatiue in euery perticuler, the ordinances eſtabliſhed, for the vpholding and ſupporting of the totall fraternitie of Rogues.</p>
+            <p>But whether the fault were in the bad termes or in the want which ouercrowed mens purſes at their com<g ref="char:EOLhyphen"/>ing to the termes through y<hi rend="sup">t</hi> dearth and hardnes which was impoſed vpon men of the Countrie, or any priuate falſhood-were wrought among his inferiours, by detain<g ref="char:EOLhyphen"/>ing of the right which he ſhould haue from him. I know not<g ref="char:punc">▪</g> But as it is hard with honeſt men, it ſeemes it was not beneficiall to him: for he was vrged to leaue his
+<pb facs="tcp:150631:10"/>ſuperioritie, and bend to a more inferiour courſe, for he was driuen by compulſion, to walke markets, faires, thronges &amp; crowds, &amp; become accountable to him ſelfe of his owne gettings as well as of others: for either he became to be a baſe minded cutpurſe for need<g ref="char:punc">▪</g> or els he did it to prie into the diſſimulations of other of his vocation.</p>
+            <p>But he was cheifly moued to it by an other conſort which was a ſeller of <hi>Olde dublets</hi> who as his cheife Counſellor, peri waded him to make triall (as it ſeemed) of the benifit which might growe or ariſe in places of reſort through the cunning deuices which might be put in practiſe: which <hi>Olde dublets</hi> hauing obtained at his hands, and procuring him to make him his Ceequall in ſharing, practiſed to effect as well as <hi>Tendance,</hi> and to be ayding at his hand. The one to accompliſh the full proſie and inſight in to the art of Roguing, the other to hans the commoditie which might enſue of the be<g ref="char:EOLhyphen"/>nifit which other Rogues ſhould make, which were to practiſe that occupation.</p>
+            <p>Which commoditie, <hi>Olde dublets</hi> found ſweet, by reaſon of the monthlie bargaines which he purchaſed with his miſbegotten ſtocke: for euery offender, which <hi>Tenda<g ref="char:cmbAbbrStroke">̄</g>ce</hi> ſhould think hardlie of, was ſure to be truſſed, ſpecia<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly ſuch as had any good ſuits to their hacks, which through <hi>Tendance</hi> his meanes, <hi>Olde dublets</hi> had the forſaking of, and had thereof very good pennieworths for reaſonable monie.</p>
+            <p>This reſoluſion incouraged theſe two proggers to per<g ref="char:EOLhyphen"/>ſiſt in their calling, inſo much that of late (beſid<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the other ſort) Leaden hall, Cheapſide, Newgat-market, nor any other place of meeting as Weſtminſter-hall or any ſuch places of aſſembly, was voyte or deſittute of the companie of theſe two, the Captain<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Lieſtenant of
+<pb facs="tcp:150631:10"/>the whole band.</p>
+            <p>So that vpon a time, <hi>Tendance</hi> making tryall to ſhew his cunning ouer a purſe, which was ſomthing dangerous and hard to come by without ſuſpition, ſuddenly was taken with the manner? and lawfully being thereof detected, was committed into the hands of ſuch as might commaund him, as he before had done others. And imediatly after, whether for greife or for greedines of cempante, I know not, But <hi>Oldedublets</hi> through his cunning, purchaſed leane to become Cham<g ref="char:EOLhyphen"/>berfellow with <hi>Tendance</hi> in Newgate, where like good companions, they paſſed a ſmall time away toge<g ref="char:EOLhyphen"/>ther, And being called by the reuerend Iudges and Maieſtrats of the land, they could ſcarcely anſwer their Faults with honeſtie, wherefore they were adiudged meretoriouſly, to endure that which their deſerts de<g ref="char:EOLhyphen"/>ſired: and in fine, hauing the ſentence of condemnati<g ref="char:EOLhyphen"/>on pronounced againſt them, they both louingly ended in a hempen friendſhip.</p>
+            <p>Hereby may be ſeene the profits and fruites which may be gathered through the falſenes, and vndoing of others: the odiouſnes of ſuch which through hope of benifit will ioyne with others in y<hi rend="sup">e</hi> practiſing of anothers hurt, and the fall which manie a one hath for want of grace, though they haue neuer ſo manie, nor ſo good examples giuen them. Wherefore I pray God of his mercie, to amend in euery one, that which is amiſſe, &amp; giue all men grace to eſchew the way which wil bring a man to his end before his time.</p>
+            <pb facs="tcp:150631:11"/>
+            <pb facs="tcp:150631:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
